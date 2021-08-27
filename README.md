@@ -1,7 +1,4 @@
-<h1 align="center">
-  <img align="center"  src="https://c.tenor.com/pvFJwncehzIAAAAM/hello-there-private-from-penguins-of-madagascar.gif" alt ="" height="220px" width="220px"/>
-
-   I'm Avinash</h1>
+<h1 align="center"> Hi <img src="Wave.gif" height="40px" width="40px"/>  , I'm Avinash</h1>
 <h3 align="center">A guy who interested in Web-development and web-designing from India, and hunger to know more about the New Technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinash6817&label=Profile%20views&color=0e75b6&style=flat" alt="avinash6817" /> </p>
