@@ -1,9 +1,13 @@
-<h1 align="center">Hi , I'm Avinash</h1>
+<h1 align="center">
+  <img align="center"  src="https://c.tenor.com/pvFJwncehzIAAAAM/hello-there-private-from-penguins-of-madagascar.gif" alt ="" height="220px" width="220px"/>
+
+   I'm Avinash</h1>
 <h3 align="center">A guy who interested in Web-development and web-designing from India, and hunger to know more about the New Technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinash6817&label=Profile%20views&color=0e75b6&style=flat" alt="avinash6817" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinash6817" alt="avinash6817" /></a> </p>
+
 
 
 ### About Me 🚀
@@ -56,3 +60,5 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=avinash6817&show_icons=true&locale=en" alt="avinash6817" /></p> 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avinash6817&" alt="avinash6817" /></p>
+
+<img align="center" src="https://wikiwebpedia.com/wp-content/uploads/javascript.gif" alt =" A js guy" height="400px" width="1000px"/>
