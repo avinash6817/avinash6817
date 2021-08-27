@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avinash</h1>
-<h3 align="center">A passionate frontend developer from India and hunger to know more about the New Technology.</h3>
+<h3 align="center">A  frontend developer from India and hunger to know more about the New Technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinash&label=Profile%20views&color=0e75b6&style=flat" alt="avinash" /> </p>
 
