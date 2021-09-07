@@ -59,4 +59,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avinash6817&" alt="avinash6817" /></p>
 
-<img align="center" src="https://wikiwebpedia.com/wp-content/uploads/javascript.gif" alt =" A js guy" height="350px" width="1000px"/>
+<img align="center" src="https://wikiwebpedia.com/wp-content/uploads/javascript.gif" alt =" A js guy" height="250px" width="1000px"/>
+
