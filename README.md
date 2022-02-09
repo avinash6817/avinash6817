@@ -1,4 +1,4 @@
-<h1 align="center">  <img src="port.jpg" height="300px" width="1000px"/></h1>
+<h1 align="center">  <img src="port.jpg" height="400px" width="1000px"/></h1>
 <h1 align="center"> Hi <img src="Wave.gif" height="40px" width="40px"/>  , I'm Avinash</h1>
 <h3 align="center">A guy who interested in Web-development and web-designing from India, and hunger to know more about the New Technology.</h3>
 
@@ -13,13 +13,13 @@
 
 - 🔭 I’m currently working on **React project.**
 
-- 🌱 I’m currently learning **React ,Tailwind CSS.**
+- 🌱 I’m currently learning **Reactjs, Nextjs, Tailwind CSS.**
 
 - 👯 I’m looking to collaborate on **React project.**
 
 - 🤝 I’m looking for help with **Some core concepts of React.**
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, BOOTSTRAP, SAAS, REACT.**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, BOOTSTRAP, SAAS, REACT, TAILWINDCSS.**
 
 - 📫 How to reach me **avinashncs80@gmail.com**
 
