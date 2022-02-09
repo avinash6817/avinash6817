@@ -1,4 +1,4 @@
-<h1 align="center">  <img src="port.jpg" height="400px" width="1000px"/></h1>
+<h1 align="center">  <img src="port.jpg" /></h1>
 <h1 align="center"> Hi <img src="Wave.gif" height="40px" width="40px"/>  , I'm Avinash</h1>
 <h3 align="center">A guy who interested in Web-development and web-designing from India, and hunger to know more about the New Technology.</h3>
 
@@ -59,5 +59,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avinash6817&" alt="avinash6817" /></p>
 
-<img align="center" src="https://wikiwebpedia.com/wp-content/uploads/javascript.gif" alt =" A js guy" height="250px" width="1000px"/>
+<img align="center" src="https://wikiwebpedia.com/wp-content/uploads/javascript.gif" alt =" A js guy" />
 
